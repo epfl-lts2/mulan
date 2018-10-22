@@ -1,0 +1,12 @@
+# install with: pip install -r requirements.txt
+
+numpy
+scipy 
+matplotlib 
+joblib
+tqdm 
+sklearn 
+ipython
+jupyter 
+jupyterlab
+pandas
