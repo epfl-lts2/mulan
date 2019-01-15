@@ -7,4 +7,5 @@ A <a href="https://arxiv.org/pdf/1810.13338.pdf">link</a> to the paper PDF on Ar
 <br />
 ![BandlimitedMeasurement](https://github.com/epfl-lts2/mulan/blob/master/readme_image.png)
  <br />
-
+ 
+ Contact e-mail: helena.peictukuljac@epfl.ch.
